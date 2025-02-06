@@ -1,0 +1,7 @@
+clipboard_share/
+├── static/
+│   └── style.css
+├── templates/
+│   └── index.html
+├── app.py
+└── requirements.txt 

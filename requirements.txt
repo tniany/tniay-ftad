@@ -1,0 +1,5 @@
+flask
+flask-socketio
+pyperclip
+requests
+Pillow 

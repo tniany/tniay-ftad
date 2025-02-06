@@ -1,0 +1,171 @@
+[
+  {
+    "id": "1732399153.489989",
+    "type": "text",
+    "message": "如果点击叉叉是双击的话，就直接删除，不需要提示，你可以等待一会检测是否双击，如果没有双击再弹出提示",
+    "timestamp": "2024-11-24 05:59:13",
+    "shouldAutoCopy": false
+  },
+  {
+    "type": "ai_response",
+    "message": "It seems like you've entered a number or code. Could you please provide more context or clarify what you would like to know or discuss?",
+    "timestamp": "2024-11-24 05:59:20",
+    "isAiResponse": true,
+    "originalText": "547"
+  },
+  {
+    "type": "file",
+    "filename": "HttpCanary.zip",
+    "path": "C:\\Users\\Administrator\\Desktop\\GAME\\糖念制作\\tniaytext\\uploads\\HttpCanary.zip",
+    "image_data": null,
+    "timestamp": "2024-11-24 05:59:32"
+  },
+  {
+    "type": "file",
+    "filename": "QQ20240405174823.mp4",
+    "path": "C:\\Users\\Administrator\\Desktop\\GAME\\糖念制作\\tniaytext\\uploads\\QQ20240405174823.mp4",
+    "image_data": null,
+    "timestamp": "2024-11-24 05:59:43"
+  },
+  {
+    "id": "1732399279.357439",
+    "type": "text",
+    "message": "上传的文件记录也可以删除",
+    "timestamp": "2024-11-24 06:01:19",
+    "shouldAutoCopy": false
+  },
+  {
+    "id": "1732399292.698235",
+    "type": "text",
+    "message": "上传的文件记录也可以删除,不同的文件格式，显示的图标不一样",
+    "timestamp": "2024-11-24 06:01:32",
+    "shouldAutoCopy": false
+  },
+  {
+    "id": "1732399342.96058",
+    "type": "text",
+    "message": "新春音乐和视频预览功能",
+    "timestamp": "2024-11-24 06:02:22",
+    "shouldAutoCopy": false
+  },
+  {
+    "id": "1732399348.811248",
+    "type": "text",
+    "message": "添加音乐播放和视频预览功能",
+    "timestamp": "2024-11-24 06:02:28",
+    "shouldAutoCopy": false
+  },
+  {
+    "id": "1732399362.82951",
+    "type": "text",
+    "message": "111",
+    "timestamp": "2024-11-24 06:02:42",
+    "shouldAutoCopy": false
+  },
+  {
+    "id": "1732399366.284104",
+    "type": "ai_response",
+    "message": "It seems like you've entered a string of characters. How can I assist you today?",
+    "timestamp": "2024-11-24 06:02:46",
+    "isAiResponse": true,
+    "originalText": "111"
+  },
+  {
+    "id": "1732399374.4489",
+    "type": "text",
+    "message": "原神启动",
+    "timestamp": "2024-11-24 06:02:54",
+    "shouldAutoCopy": false
+  },
+  {
+    "id": "1732399381.931398",
+    "type": "ai_response",
+    "message": "《原神》是一款由中国游戏公司miHoYo（米哈游）开发的开放世界角色扮演游戏。游戏中，玩家可以探索一个名为“提瓦特”的幻想世界，完成任务、解锁角色、收集资源等。如果你在启动游戏时遇到问题，可以尝试以下步骤：\n\n1. **检查网络连接**：确保你的设备连接到互联网。\n2. **更新游戏**：确保你安装的是最新版本的《原神》。\n3. **重启设备**：有时重启设备可以解决临时问题。\n4. **检查存储空间**：确保你的设备有足够的存储空间来运行游戏。\n5. **查看官方公告**：有时游戏会进行维护或更新，查看官方社交媒体或论坛获取最新信息。\n\n如果你有具体的问题或错误代码，可以提供更多信息，我会尽力帮助你！",
+    "timestamp": "2024-11-24 06:03:01",
+    "isAiResponse": true,
+    "originalText": "原神启动"
+  },
+  {
+    "id": "1732399390.812448",
+    "type": "ai_response",
+    "message": "It seems like you entered \"user:111;\". Could you please provide more context or clarify what you would like to discuss or ask?",
+    "timestamp": "2024-11-24 06:03:10",
+    "isAiResponse": true,
+    "originalText": "111"
+  },
+  {
+    "id": "1732399474.097265",
+    "type": "text",
+    "message": "fff",
+    "timestamp": "2024-11-24 06:04:34",
+    "shouldAutoCopy": false
+  },
+  {
+    "id": "1732399521.641703",
+    "type": "video",
+    "filename": "QQ20240405174823_1.mp4",
+    "path": "C:\\Users\\Administrator\\Desktop\\GAME\\糖念制作\\tniaytext\\uploads\\QQ20240405174823_1.mp4",
+    "image_data": null,
+    "timestamp": "2024-11-24 06:05:21"
+  },
+  {
+    "id": "1732399549.54287",
+    "type": "audio",
+    "filename": "-_.mp3",
+    "path": "C:\\Users\\Administrator\\Desktop\\GAME\\糖念制作\\tniaytext\\uploads\\-_.mp3",
+    "image_data": null,
+    "timestamp": "2024-11-24 06:05:49"
+  },
+  {
+    "id": "1732399580.200561",
+    "type": "text",
+    "message": "为什么刷新之后文件记录消失了?",
+    "timestamp": "2024-11-24 06:06:20",
+    "shouldAutoCopy": false
+  },
+  {
+    "id": "1732399594.490418",
+    "type": "file",
+    "filename": "7z",
+    "path": "C:\\Users\\Administrator\\Desktop\\GAME\\糖念制作\\tniaytext\\uploads\\7z",
+    "image_data": null,
+    "timestamp": "2024-11-24 06:06:34"
+  },
+  {
+    "id": "1732399630.873855",
+    "type": "text",
+    "message": "修复文件名和播放器，就是这个音乐播放器无法显示完整，修复一些文件无法显示完整的文件名字",
+    "timestamp": "2024-11-24 06:07:10",
+    "shouldAutoCopy": false
+  },
+  {
+    "id": "1732399750.817576",
+    "type": "audio",
+    "filename": "-__2.mp3",
+    "path": "C:\\Users\\Administrator\\Desktop\\GAME\\糖念制作\\tniaytext\\uploads\\-__2.mp3",
+    "image_data": null,
+    "timestamp": "2024-11-24 06:09:10"
+  },
+  {
+    "id": "1732399809.557066",
+    "type": "video",
+    "filename": "crush.mp4",
+    "path": "C:\\Users\\Administrator\\Desktop\\GAME\\糖念制作\\tniaytext\\uploads\\crush.mp4",
+    "image_data": null,
+    "timestamp": "2024-11-24 06:10:09"
+  },
+  {
+    "id": "1732399924.836747",
+    "type": "text",
+    "message": "我可以把它打包成一个应用程序吗",
+    "timestamp": "2024-11-24 06:12:04",
+    "shouldAutoCopy": false
+  },
+  {
+    "id": "1732399939.102646",
+    "type": "text",
+    "message": "我可以把它打包成应用程序吗？就是我点开这个应用程序就可以直接使用了,出现一个提示，让我访问相关的浏览器链接就行",
+    "timestamp": "2024-11-24 06:12:19",
+    "shouldAutoCopy": false
+  }
+]
