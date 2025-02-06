@@ -112,3 +112,8 @@ tniay (mo-tniay)
 ## 致谢
 
 感谢所有为这个项目做出贡献的开发者。 
+
+
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/tniany/tniay-ftad.svg?variant=adaptive)](https://starchart.cc/tniany/tniay-ftad)
+
